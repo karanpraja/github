@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{//to find out whether the given character is uppper,lower or integer
+{//to find out whether the input character is uppper,lower or integer
 char n;
 cout<<"enter a character"<<endl;
 cin>>n;
